@@ -1,0 +1,58 @@
+[
+    {
+        "code_grand_domaine": "A",
+        "appelation_grand_domaine": "Agriculture et Pêche, Espaces naturels et Espaces verts, Soins aux animaux"
+    },
+    {
+        "code_grand_domaine": "B",
+        "appelation_grand_domaine": "Arts et Façonnage d'ouvrages d'art"
+    },
+    {
+        "code_grand_domaine": "C",
+        "appelation_grand_domaine": "Banque, Assurance, Immobilier"
+    },
+    {
+        "code_grand_domaine": "D",
+        "appelation_grand_domaine": "Commerce, Vente et Grande distribution"
+    },
+    {
+        "code_grand_domaine": "E",
+        "appelation_grand_domaine": "Communication, Média et Multimédia"
+    },
+    {
+        "code_grand_domaine": "F",
+        "appelation_grand_domaine": "Construction, Bâtiment et Travaux publics"
+    },
+    {
+        "code_grand_domaine": "G",
+        "appelation_grand_domaine": "Hôtellerie-Restauration, Tourisme, Loisirs et Animation"
+    },
+    {
+        "code_grand_domaine": "H",
+        "appelation_grand_domaine": "Industrie"
+    },
+    {
+        "code_grand_domaine": "I",
+        "appelation_grand_domaine": "Installation et Maintenance"
+    },
+    {
+        "code_grand_domaine": "J",
+        "appelation_grand_domaine": "Santé"
+    },
+    {
+        "code_grand_domaine": "K",
+        "appelation_grand_domaine": "Services à la personne et à la collectivité"
+    },
+    {
+        "code_grand_domaine": "L",
+        "appelation_grand_domaine": "Spectacle"
+    },
+    {
+        "code_grand_domaine": "M",
+        "appelation_grand_domaine": "Support à l'entreprise"
+    },
+    {
+        "code_grand_domaine": "N",
+        "appelation_grand_domaine": "Transport et Logistique"
+    }
+]
